@@ -1,0 +1,2 @@
+# Daily Notes
+Remove redundant checks and dead code from API routes
